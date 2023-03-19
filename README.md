@@ -2,10 +2,10 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/kennethcarnes/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/kennethcarnes/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=convoychat" />
 </a>
 
