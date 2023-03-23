@@ -1,14 +1,6 @@
 ### Hi there 👋
-<a href="(https://github.com/kennethcarnes/github-readme-stats">
-  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=DevOpsMC&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=true&theme=transparent&langs_count=8&hide=javascript,html,css,dockerfile)" />
-</a>
-<a href="(https://github.com/kennethcarnes/github-readme-stats">
-  <img align="center" src="[[https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=DevOpsMC&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=false&theme=transparent&langs_count=8&hide=javascript,html,css,dockerfile)](https://github-readme-stats.vercel.app/api?username=kennethcarnes&show_icons=true&theme=transparent&hide=contribs,issues,stars)" />
-</a>
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcarnes&show_icons=true&theme=transparent&hide=contribs,issues,stars)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=true&theme=transparent&langs_count=8&hide=javascript,html,css,dockerfile)](https://github.com/kennethcarnes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=false&theme=transparent&langs_count=8&hide=javascript,html,css,dockerfile)](https://github.com/kennethcarnes/github-readme-stats)
 
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
