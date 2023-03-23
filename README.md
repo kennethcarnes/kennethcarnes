@@ -1,10 +1,12 @@
 ### Hi there 👋
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+<a href="https://github.com/kennethcarnes/power-platform-alm">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=power-platform-alm" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+<a href="https://github.com/kennethcarnes/DevOpsMC">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=DevOpsMC" />
 </a>
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcarnes&show_icons=true&theme=transparent&hide=contribs,issues,stars)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=true&theme=transparent&langs_count=8&hide=javascript,html,css,dockerfile)](https://github.com/kennethcarnes/github-readme-stats)
 
