@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcarnes&show_icons=true&theme=transparent&hide=contribs,issues,stars&count_private=true&line_height=35&custom_title=Stats&text_bold=false)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcarnes&show_icons=true&theme=transparent&hide=contribs,issues,stars&count_private=true&line_height=40&custom_title=Stats&text_bold=false)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=false&theme=transparent&langs_count=8&hide=javascript,html,css,dockerfile)](https://github.com/kennethcarnes/github-readme-stats)
 
 
