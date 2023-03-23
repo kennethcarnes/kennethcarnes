@@ -1,9 +1,15 @@
 ### Hi there 👋
 <a href="https://github.com/kennethcarnes/power-platform-alm">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=power-platform-alm" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=power-platform-alm&theme=transparent" />
 </a>
 <a href="https://github.com/kennethcarnes/DevOpsMC">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=DevOpsMC" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=DevOpsMC&theme=transparent" />
+</a>
+<a href="(https://github.com/kennethcarnes/github-readme-stats">
+  <img align="center" src="[https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=DevOpsMC&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=true&theme=transparent&langs_count=8&hide=javascript,html,css,dockerfile)" />
+</a>
+<a href="(https://github.com/kennethcarnes/github-readme-stats">
+  <img align="center" src="[[https://github-readme-stats.vercel.app/api/pin/?username=kennethcarnes&repo=DevOpsMC&theme=transparent](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=true&theme=transparent&langs_count=8&hide=javascript,html,css,dockerfile)](https://github-readme-stats.vercel.app/api?username=kennethcarnes&show_icons=true&theme=transparent&hide=contribs,issues,stars)" />
 </a>
 
 
