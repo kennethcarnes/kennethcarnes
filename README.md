@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kennethcarnes&show_icons=true&theme=transparent)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=true&theme=transparent)](https://github.com/kennethcarnes/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=true&theme=transparent&langs_count=8&hide=javascript,html&layout=compact)](https://github.com/kennethcarnes/github-readme-stats)
 
 
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
