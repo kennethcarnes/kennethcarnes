@@ -16,9 +16,6 @@ Hi 👋, I'm Kenneth
 <img src="https://images.credly.com/size/220x220/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png"  width="25" height="25">
 <img src="https://images.credly.com/size/220x220/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"  width="25" height="25">
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=kennethcarnes&theme=tokyonight&border_radius=3.5&background=FFFFFF00&border=BFBEBE&stroke=BFBEBE&ring=844FBA&fire=519ABA&currStreakNum=519ABA&sideNums=006AFE&currStreakLabel=519ABA&sideLabels=519ABA&dates=006AFE)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kennethcarnes&hide_progress=false&theme=transparent&hide=javascript,html,css&custom_title=Languages&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
 
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
