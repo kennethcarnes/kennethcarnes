@@ -16,7 +16,6 @@ Hi 👋, I'm Kenneth
 <img src="https://images.credly.com/size/220x220/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png"  width="25" height="25">
 <img src="https://images.credly.com/size/220x220/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"  width="25" height="25">
 
-
 ![Azure](https://img.shields.io/badge/Azure_DevOps-0078D7?style=for-the-badge&logo=azure-devops&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
