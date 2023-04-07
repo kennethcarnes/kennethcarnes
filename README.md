@@ -2,7 +2,7 @@ Hi 👋, I'm Kenneth
 
 💼 Technical Consultant at [HingePoint](https://hingepoint.com)
 
-🌱 Currently learning Azure DevOps
+🌱 Currently learning Azure DevOps and GitHub
 
 💪 My Strengths
 • Passion for clear and detailed docs 📝 
