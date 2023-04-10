@@ -2,7 +2,7 @@ Hi 👋, I'm Kenneth
 
 💼 Technical Consultant at [HingePoint](https://hingepoint.com)
 
-🌱 Currently learning Azure DevOps and GitHub
+🌱 Currently learning Azure DevOps and Git
 
 🏆 See my achievements on [LinkedIn](https://www.linkedin.com/in/kennethcarnes1/) <img src="https://images.credly.com/size/220x220/images/336eebfc-0ac3-4553-9a67-b402f491f185/azure-administrator-associate-600x600.png"  width="15" height="15"><img src="https://images.credly.com/size/220x220/images/be8fcaeb-c769-4858-b567-ffaaa73ce8cf/image.png"  width="15" height="15"><img src="https://images.credly.com/size/220x220/images/0c6d9839-f468-4adc-987d-5cfae4a9ee67/image.png"  width="15" height="15"><img src="https://images.credly.com/size/220x220/images/00634f82-b07f-4bbd-a6bb-53de397fc3a6/image.png"  width="15" height="15"><img src="https://images.credly.com/size/220x220/images/683783d8-eaac-4c37-a14d-11bd8a36321d/ccna_600.png"  width="15" height="15"><img src="https://images.credly.com/size/220x220/images/e1fc05b2-959b-45a4-8d20-124b1df121fe/CompTIA_Network_2Bce.png"  width="15" height="15"><img src="https://images.credly.com/size/220x220/images/74790a75-8451-400a-8536-92d792c5184a/CompTIA_Security_2Bce.png"  width="15" height="15">
 
