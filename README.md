@@ -4,7 +4,7 @@ Hi 👋, I'm Kenneth
 
 🌱 Currently learning Azure Infrastructure and DevOps
 
-💪 My Strengths
+💪 My Strengths:
 - Passion for clear and detailed docs 📝 
 - Simplifying complex topics with visual diagrams 🎨 
 - Strategically leading with a forward-thinking mindset 🧠 
